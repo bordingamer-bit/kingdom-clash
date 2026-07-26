@@ -1,0 +1,36 @@
+.DS_Store
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+ios/
+android/
+web/
+windows/
+macos/
+linux/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.env
+*.iml
+
+# Generated files
+generated_plugin_registrant.dart
+.g.dart
+.config.json
+.flutter_project
+
+# Environment
+.env.local
+.env.*.local
+
+# Misc
+.DS_Store
+*.log
